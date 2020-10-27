@@ -1,6 +1,6 @@
 config-parser==0.0.1
 configparser==4.0.2
-cryptography==2.7
+cryptography==3.2
 cvlib==0.2.3
 cycler==0.10.0
 cymem==2.0.2
