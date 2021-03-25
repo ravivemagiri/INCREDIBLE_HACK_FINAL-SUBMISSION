@@ -121,7 +121,7 @@ python-dateutil==2.7.5
 python-docx==0.8.10
 pytypo==0.3.0
 pytz==2019.1
-PyYAML==5.3
+PyYAML==5.4
 pyzmq==18.0.1
 qtconsole==4.4.4
 requests==2.22.0
